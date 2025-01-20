@@ -4,6 +4,8 @@ https://api.tu-zi.com/topup
 
 开发测试的话，5元（RMB），足够了
 
+更换文件中的 API key 和 URL
+
 运行需要使用命令行：
 
 streamlit run http://app.py（更换为自己的py文件名）
